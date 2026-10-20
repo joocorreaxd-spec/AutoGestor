@@ -1,1 +1,2 @@
 AutoGestor - Sistema de Gestao para Loja de Veiculos
+Funcionalidade: gerenciamento do cadastro de veiculos do estoque.
